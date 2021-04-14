@@ -21,7 +21,7 @@ object Versions {
 }
 
 object Libs {
-    const val androidGradlePlugin = "com.android.tools.build:gradle:4.2.0-rc1"
+    const val androidGradlePlugin = "com.android.tools.build:gradle:4.2.0-rc01"
     const val jdkDesugar = "com.android.tools:desugar_jdk_libs:1.0.9"
 
     const val material = "com.google.android.material:material:1.3.0"
